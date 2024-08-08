@@ -34,7 +34,7 @@ This is a CRUD (Create, Read, Update, Delete) application built with Laravel 9 a
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/student-management-system.git
+    git clone https://github.com/Aashu-hacker/student-management-system.git
     cd student-management-system
     ```
 
